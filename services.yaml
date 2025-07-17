@@ -1,0 +1,8 @@
+run_random_pattern:
+  name: Run Random Pattern
+  description: Runs a random pattern from the selected table
+
+run_fitting_pattern:
+  name: Run Fitting Pattern
+  description: Runs a pattern from a playlist fitting to the current date.
+

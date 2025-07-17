@@ -1,0 +1,13 @@
+{
+  "domain": "duneweaver",
+  "name": "Dune Weaver",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "",
+  "requirements": ["httpx"],
+  "codeowners": [],
+  "integration_type": "hub",
+  "iot_class": "local_push",
+  "supported_platforms": ["button"]
+}
+
