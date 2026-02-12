@@ -1,0 +1,32 @@
+{
+  "Christmas": {
+    "type": "range",
+    "start": "16.12",
+    "end": "28.12"
+  },
+  "Halloween": {
+    "type": "range",
+    "start": "24.10",
+    "end": "31.10"
+  },
+  "Easter": {
+    "type": "dynamic",
+    "holiday": "easter"
+  },
+  "IndependenceDay": {
+    "type": "dates",
+    "dates": ["04.07"]
+  },
+  "Thanksgiving": {
+    "type": "dynamic",
+    "holiday": "thanksgiving_us"
+  },
+  "Valentine": {
+    "type": "dates",
+    "dates": ["14.02"]
+  },
+  "Birthday": {
+    "type": "dates",
+    "dates": []
+  }
+}
